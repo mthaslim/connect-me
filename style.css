@@ -45,7 +45,7 @@ body {
 .col-auto:hover {
   color: #6b91c0;
   transform: scale(1.8);
-  transition: color 1s ease, transform 1s ease;
+  transition: color 1s ease, transform 1.5s ease;
 }
 
 .icon:active {
